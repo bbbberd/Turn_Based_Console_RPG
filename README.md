@@ -1,5 +1,5 @@
 
-<h1 align="center">Turn-Based Text RPG</h1>
+<h1 align="center">Turn_Based_Console_RPG</h1>
 
 <p align="center">
 A cross-platform, console-based turn-based RPG built as a learning project to explore industry-grade C++ organization, OOP, and scalable architecture.
