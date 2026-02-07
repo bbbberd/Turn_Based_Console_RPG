@@ -2,7 +2,7 @@
 <h1 align="center">Turn Based Console RPG</h1>
 
 <p align="center">
-A cross-platform, console-based turn-based RPG built as a learning project to explore industry-grade C++ organization, OOP, and scalable architecture.
+A cross-platform, console-based turn-based RPG built as a learning project to explore industry-grade C++ organization, OOP, and scalable architecture to demonstrate core game programming fundamentals such as game loop, state machine, turn system, and basic combat logic.
 </p>
 
 <h1 align="center">Gameplay</h1>
