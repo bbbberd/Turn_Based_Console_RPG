@@ -22,7 +22,7 @@ public:
     void TakeDamage() {
         if (isDefending) {
             std::cout << "Damage ditahan!\n";
-            isDefending = false; // defense only 1 turn
+            isDefending = false;
             return;
         }
 

@@ -1,9 +1,8 @@
 #pragma once
-
 #include "Entity.h"
 #include <iostream>
 
-class Player; // forward declaration (hindari circular include)
+class Player;
 
 class Enemy : public Entity {
 private:
