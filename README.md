@@ -21,7 +21,7 @@ A cross-platform, console-based turn-based RPG built as a learning project to ex
 
 - Turn-based combat system (Player vs Enemy)
 - State Machine driven game flow: Menu → Playing → Win / Game Over
-- Enemy AI with random actions
+- Very basic enemy AI with random actions
 - Defense mechanic (blocks one hit)
 - Restart without quitting the game
 - Clean architecture ready for scaling
